@@ -1,0 +1,45 @@
+.pp{
+    width: 100px;
+    height: 100px;
+   
+    
+
+
+}
+.ad{
+    max-width: 500px;
+    max-height: 500px;
+}
+.renkyaz{
+    color: antiquewhite;
+}
+.pythonicon{
+    width: 50px;
+    height: 50px;
+}
+.htmlicon{
+    width: 50px;
+    height: 50px;
+}
+.cssicon{
+    width: 50px;
+    height: 50px;
+}
+.egitim{
+  width: 300px;
+  height: 200px;
+  background: red;
+  position: relative;
+  animation-name: example;
+  animation-duration: 3s;  
+  animation-fill-mode: forwards;
+}
+
+@keyframes example {
+  from {top: 0px;}
+  to {top: 200px; background-color: blue;}
+}
+.resim{
+    position: relative;
+    left: 70px;
+}
